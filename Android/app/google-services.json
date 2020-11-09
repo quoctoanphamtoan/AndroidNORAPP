@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "766761567862",
+    "firebase_url": "https://norapp-def30.firebaseio.com",
+    "project_id": "norapp-def30",
+    "storage_bucket": "norapp-def30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766761567862:android:867a9093d8343975a20157",
+        "android_client_info": {
+          "package_name": "com.example.youtube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766761567862-qpjr8hmba4k7jciver4pnje6m0etf73r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.youtube",
+            "certificate_hash": "615252c267366316e2f59d1e416621bc24913f0c"
+          }
+        },
+        {
+          "client_id": "766761567862-66qp4s9qj9j0ccfmensv97tjkhvemvcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXqUw40KsXlT1WYAzyFRlh7tAogPHFxXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766761567862-66qp4s9qj9j0ccfmensv97tjkhvemvcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
